@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-redux-router-firebase-auth-rtdb-crud-mui-app/static/css/main.31d6cfe0.css",
+    "main.js": "/react-redux-router-firebase-auth-rtdb-crud-mui-app/static/js/main.99e9c805.js",
+    "static/js/787.bf637e57.chunk.js": "/react-redux-router-firebase-auth-rtdb-crud-mui-app/static/js/787.bf637e57.chunk.js",
+    "index.html": "/react-redux-router-firebase-auth-rtdb-crud-mui-app/index.html",
+    "main.99e9c805.js.map": "/react-redux-router-firebase-auth-rtdb-crud-mui-app/static/js/main.99e9c805.js.map",
+    "787.bf637e57.chunk.js.map": "/react-redux-router-firebase-auth-rtdb-crud-mui-app/static/js/787.bf637e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.99e9c805.js"
+  ]
+}
